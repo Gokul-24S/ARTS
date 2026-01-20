@@ -1,0 +1,67 @@
+# GitHub - modelcontextprotocol/typescript-sdk: The official TypeScript SDK for Model Context Protocol servers and clients
+
+The official TypeScript SDK for Model Context Protocol servers and clients - modelcontextprotocol/typescript-sdk
+
+## General Information
+- [Skip to content](https://github.com/modelcontextprotocol/typescript-sdk#start-of-content): A link to quickly navigate to the main content of the page.
+- [No Title](https://github.com/): Placeholder for a link without a title.
+- [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmodelcontextprotocol%2Ftypescript-sdk): Access your GitHub account.
+- [GitHub CopilotWrite better code with AI](https://github.com/features/copilot): A tool that assists in writing code using AI.
+- [GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark): A platform for building and deploying applications.
+- [GitHub ModelsManage and compare prompts](https://github.com/features/models): Tools for managing and comparing prompts in models.
+- [MCP RegistryNewIntegrate external tools](https://github.com/mcp): A registry for integrating external tools with the Model Context Protocol.
+- [ActionsAutomate any workflow](https://github.com/features/actions): Automate workflows using GitHub Actions.
+- [CodespacesInstant dev environments](https://github.com/features/codespaces): Instant development environments in the cloud.
+- [IssuesPlan and track work](https://github.com/features/issues): Manage and track issues in your projects.
+- [Code ReviewManage code changes](https://github.com/features/code-review): Tools for reviewing and managing code changes.
+- [GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security): Advanced security features to identify and fix vulnerabilities.
+- [Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security): Tools to ensure code security during development.
+- [Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection): Protect sensitive information in your code.
+
+## Documentation and Resources
+- [Documentation](https://docs.github.com/): Comprehensive documentation for the TypeScript SDK.
+- [Blog](https://github.blog/): Updates and articles related to the SDK and Model Context Protocol.
+- [Changelog](https://github.blog/changelog): A record of changes and updates made to the SDK.
+- [Marketplace](https://github.com/marketplace): Explore tools and applications available in the GitHub Marketplace.
+- [View all features](https://github.com/features): Overview of all features available in the SDK.
+- [View all use cases](https://github.com/solutions/use-case): Various use cases for the SDK in different scenarios.
+- [View all industries](https://github.com/solutions/industry): Industries that utilize the SDK and Model Context Protocol.
+- [View all solutions](https://github.com/solutions): Solutions provided by the SDK for various problems.
+
+## Community and Support
+- [Customer stories](https://github.com/customer-stories): Testimonials and case studies from users of the SDK.
+- [Events & webinars](https://github.com/resources/events): Information on upcoming events and webinars related to the SDK.
+- [Ebooks & reports](https://github.com/resources/whitepapers): Educational resources and reports on the SDK and its applications.
+- [Business insights](https://github.com/solutions/executive-insights): Insights into business applications of the SDK.
+- [GitHub Skills](https://skills.github.com/): Learning resources for improving skills related to GitHub and the SDK.
+- [Customer support](https://support.github.com/): Support options for users of the SDK.
+- [Community forum](https://github.com/orgs/community/discussions): A forum for users to discuss and share information about the SDK.
+
+## Technical Details
+- [Overview](https://github.com/modelcontextprotocol/typescript-sdk#overview): A general overview of the TypeScript SDK and its capabilities.
+- [Packages](https://github.com/modelcontextprotocol/typescript-sdk#packages): Information on the various packages included in the SDK.
+- [Installation](https://github.com/modelcontextprotocol/typescript-sdk#installation): Instructions for installing the TypeScript SDK.
+- [Quick Start (runnable examples)](https://github.com/modelcontextprotocol/typescript-sdk#quick-start-runnable-examples): Quick start guide with runnable examples to get started with the SDK.
+- [Contributing](https://github.com/modelcontextprotocol/typescript-sdk#contributing): Guidelines for contributing to the SDK.
+- [License](https://github.com/modelcontextprotocol/typescript-sdk#license): Licensing information for the SDK.
+- [Security policy](https://github.com/modelcontextprotocol/typescript-sdk#security-ov-file): Security practices and policies related to the SDK.
+
+## Examples and Use Cases
+- [examples/](https://github.com/modelcontextprotocol/typescript-sdk/blob/main/examples): Directory containing example implementations of the SDK.
+- [examples/server/README.md](https://github.com/modelcontextprotocol/typescript-sdk/blob/main/examples/server/README.md): README file for server examples using the SDK.
+- [examples/client/README.md](https://github.com/modelcontextprotocol/typescript-sdk/blob/main/examples/client/README.md): README file for client examples using the SDK.
+- [docs/server.md](https://github.com/modelcontextprotocol/typescript-sdk/blob/main/docs/server.md): Documentation for server-side implementation of the SDK.
+- [docs/client.md](https://github.com/modelcontextprotocol/typescript-sdk/blob/main/docs/client.md): Documentation for client-side implementation of the SDK.
+- [docs/capabilities.md](https://github.com/modelcontextprotocol/typescript-sdk/blob/main/docs/capabilities.md): Overview of the capabilities provided by the SDK.
+- [docs/faq.md](https://github.com/modelcontextprotocol/typescript-sdk/blob/main/docs/faq.md): Frequently asked questions regarding the SDK.
+- [MCP Specification](https://spec.modelcontextprotocol.io/): Specification document for the Model Context Protocol.
+- [Example Servers](https://github.com/modelcontextprotocol/servers): Examples of servers built using the SDK.
+
+## Additional Resources
+- [Readme](https://github.com/modelcontextprotocol/typescript-sdk#readme-ov-file): General README file for the SDK.
+- [View license](https://github.com/modelcontextprotocol/typescript-sdk#License-1-ov-file): Link to view the license for the SDK.
+- [Code of conduct](https://github.com/modelcontextprotocol/typescript-sdk#coc-ov-file): Guidelines for community behavior.
+- [Contributing](https://github.com/modelcontextprotocol/typescript-sdk#contributing-ov-file): Additional contributing guidelines for the SDK.
+- [Security policy](https://github.com/modelcontextprotocol/typescript-sdk#security-ov-file): Detailed security policy for the SDK.
+
+This structured summary provides a comprehensive overview of the TypeScript SDK for Model Context Protocol servers and clients, including links to documentation, community resources, technical details, and examples.
